@@ -1,5 +1,3 @@
-import bokeh.io
-import bokeh.plotting
 bokeh.io.output_notebook()
 from bokeh.layouts import row
 from bokeh.plotting import figure, show
